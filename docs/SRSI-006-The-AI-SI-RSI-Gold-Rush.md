@@ -351,6 +351,13 @@ This convergence is what this paper calls:
 
 ---
 
+![Fig-005 — AI-SI-RSI Gold Rush](../figures/Fig-005-AI-SI-RSI-Gold-Rush.png)
+
+**Fig-005 — AI-SI-RSI Gold Rush.**  
+As AI candidate generation becomes increasingly abundant, Rich Evaluators, Structural Search, Improvement Memory, and trusted Improvement Runtimes may emerge as a new engineering frontier.
+
+---
+
 # 6. Why "Gold Rush"?
 
 The term **Gold Rush** is intentionally metaphorical.

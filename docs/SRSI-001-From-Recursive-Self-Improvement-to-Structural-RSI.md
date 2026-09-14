@@ -470,6 +470,13 @@ The **improvement process itself** becomes recursively structured.
 
 ---
 
+![Fig-001 — SRSI Grand Map](../figures/Fig-001-SRSI-Grand-Map.png)
+
+**Fig-001 — SRSI Grand Map.**  
+A visual overview of Structural Recursive Self-Improvement, connecting candidate generation with evaluation, structural comparison, localization, governance, runtime feedback, and recursive improvement.
+
+---
+
 # 8. Five Pillars of SRSI
 
 The initial SRSI framework can be organized around five pillars.

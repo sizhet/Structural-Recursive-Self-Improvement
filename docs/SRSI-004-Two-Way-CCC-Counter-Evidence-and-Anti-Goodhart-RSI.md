@@ -468,6 +468,13 @@ Counter-Evidence Search is active.
 
 ---
 
+![Fig-004 — Two-Way CCC and Counter-Evidence RSI](../figures/Fig-004-Two-Way-CCC-and-Counter-Evidence-RSI.png)
+
+**Fig-004 — Two-Way CCC and Counter-Evidence RSI.**  
+Recursive improvement is treated as structural comparison rather than winner-take-all scoring, preserving evidence, counter-evidence, context, regression, uncertainty, and alternative improvement outcomes.
+
+---
+
 # 9. Active Falsification
 
 A conventional evaluator may run predefined tests.

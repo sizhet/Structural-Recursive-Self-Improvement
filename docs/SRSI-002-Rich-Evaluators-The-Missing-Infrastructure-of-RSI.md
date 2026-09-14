@@ -466,6 +466,13 @@ This opens the door to evaluator routing, evaluator hierarchies, and evaluator s
 
 ---
 
+![Fig-002 — Rich Evaluator Plane](../figures/Fig-002-Rich-Evaluator-Plane.png)
+
+**Fig-002 — Rich Evaluator Plane.**  
+The Rich Evaluator Plane expands improvement judgment beyond a single scalar score toward multi-perspective, context-aware, evidence-aware, and structurally informative evaluation.
+
+---
+
 # 8. The Evaluator Portfolio
 
 A sufficiently complex RSI system is unlikely to rely on one universal evaluator.

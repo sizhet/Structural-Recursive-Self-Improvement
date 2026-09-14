@@ -2073,6 +2073,13 @@ This is the core runtime proposed in this paper.
 
 ---
 
+![Fig-003 — Structural RSI Loop](../figures/Fig-003-Structural-RSI-Loop.png)
+
+**Fig-003 — Structural RSI Loop.**  
+Structural Recursive Self-Improvement operates as a closed loop in which candidate generation, evaluation, localization, governance, runtime observation, and structural memory continuously feed the next improvement cycle.
+
+---
+
 # 58. Structural Growth as the Default SRSI Metaphor
 
 The dominant metaphor for RSI should perhaps shift from:
