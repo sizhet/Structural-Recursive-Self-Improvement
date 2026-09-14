@@ -1,50 +1,53 @@
 {
-  "title": "Pre-AGI AI Action Governance: Governing Autonomous Authority, Scale, and Consequential Action Before AGI",
-  "description": "Pre-AGI AI Action Governance is a research and policy framework for governing consequential autonomous AI action without waiting for artificial general intelligence. The framework shifts the primary governance focus from model intelligence alone toward autonomous authority, access, scale, persistence, external action, consequence, verification, and accountability. It introduces four core concepts: Scale-Looping Power, the Autonomous Impact Threshold, the AI Action Accountability Stack, and the Governance Target Selection Problem. Its central principle is that intelligence does not imply authority: model evaluation should inform governance, action capability should trigger governance, and consequence should determine governance intensity.",
-  "creators": [
-    {
-      "name": "Tan, Sizhe"
-    }
-  ],
-  "upload_type": "publication",
-  "publication_type": "other",
-  "access_right": "open",
-  "license": "Apache-2.0",
-  "version": "1.0.0",
-  "publication_date": "2026-09-13",
-  "keywords": [
-    "Artificial Intelligence",
-    "AI Governance",
-    "AI Safety",
-    "Pre-AGI Governance",
-    "AI Action Governance",
-    "Autonomous Agents",
-    "Agentic AI",
-    "Autonomous Systems",
-    "Scale-Looping Power",
-    "Industrialized Search Intelligence",
-    "Autonomous Impact Threshold",
-    "AI Action Accountability Stack",
-    "Governance Target Selection Problem",
-    "AI Authority",
-    "AI Permissions",
-    "AI Control",
-    "AI Verification",
-    "AI Audit",
-    "AI Accountability",
-    "AI Policy",
-    "AI Regulation",
-    "Responsible AI",
-    "Human Oversight",
-    "Consequential AI Action",
-    "Structural Governance"
-  ],
-  "related_identifiers": [
-    {
-      "identifier": "https://github.com/sizhet/Pre-AGI-AI-Action-Governance",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    }
-  ],
-  "notes": "This repository develops a practical pre-AGI governance framework centered on autonomous authority and consequential action rather than intelligence level alone. Core principles include: Intelligence does not imply authority; AI autonomy must not break the chain of accountability; model evaluation informs governance; action capability triggers governance; consequence determines governance intensity; and stronger autonomous impact requires stronger structural control."
+"title": "Structural Recursive Self-Improvement: DBM-SI as a Rich Evaluator and Improvement Infrastructure",
+"description": "Structural Recursive Self-Improvement (SRSI) is a research framework for studying recursive improvement as a structured computational process rather than candidate generation alone. The framework centers on Rich Evaluators, Counter-Evidence, structural comparison, localization, verification, Structural Improvement Memory, and Improvement Governance. It introduces the Evaluator Bottleneck hypothesis, explores Two-Way CCC and Counter-Evidence Search as mechanisms for Anti-Goodhart recursive improvement, develops Localized RSI and recursive structural growth as alternatives to whole-system replacement, and maps existing DBM-SI mechanisms into one possible Rich Evaluator and improvement infrastructure. The project also proposes the AI-SI-RSI Gold Rush as a research hypothesis in which trustworthy machine-operable judgment, Structural Search, Evaluator Packs, and Improvement Runtimes may become increasingly important as AI candidate generation becomes more abundant.",
+"creators": [
+{
+"name": "Tan, Sizhe"
+}
+],
+"license": {
+"id": "Apache-2.0"
+},
+"upload_type": "publication",
+"publication_type": "other",
+"access_right": "open",
+"version": "1.0.0",
+"language": "eng",
+"keywords": [
+"Structural Recursive Self-Improvement",
+"SRSI",
+"Recursive Self-Improvement",
+"RSI",
+"Structural Intelligence",
+"DBM-SI",
+"Rich Evaluator",
+"Evaluator Bottleneck",
+"Evaluator Richness",
+"Evaluator Plane",
+"Counter-Evidence",
+"Counter-Evidence Search",
+"Anti-Goodhart RSI",
+"Two-Way CCC",
+"Structural A/B",
+"Localized RSI",
+"Per-Node Intelligence",
+"Structural Growth",
+"Structural Search",
+"Structural Folding",
+"Improvement Memory",
+"Improvement Governance",
+"Evaluator Engineering",
+"AI-SI-RSI",
+"AI Safety",
+"AI Governance",
+"Artificial Intelligence"
+],
+"related_identifiers": [
+{
+"identifier": "https://github.com/sizhet/Structural-Recursive-Self-Improvement",
+"relation": "isSupplementTo",
+"scheme": "url"
+}
+]
 }
