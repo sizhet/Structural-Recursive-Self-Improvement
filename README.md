@@ -1835,7 +1835,7 @@ The next phase is expected to focus on:
 
 Apache License 2.0
 
-See `LICENSE` for details.
+See `LICENSE.txt` for details.
 
 ---
 
