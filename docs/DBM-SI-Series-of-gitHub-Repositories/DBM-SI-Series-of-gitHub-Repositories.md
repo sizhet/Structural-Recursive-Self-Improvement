@@ -225,3 +225,11 @@
 
 65. Metric-Differential-Tree UTN and Context-Bound Token Intelligence (MDT-UTN-CBT) \
     Repository: https://github.com/sizhet/Metric-Differential-Tree-UTN-and-Context-Bound-Token-Intelligence
+
+66. Pre-AGI AI Action Governance - \
+    Governing Autonomous Authority, Scale, and Consequential Action Before AGI
+    Repository: https://github.com/sizhet/Pre-AGI-AI-Action-Governance
+
+67. Structural Recursive Self-Improvement (SRSI) - \
+    DBM-SI as a Rich Evaluator and Improvement Infrastructure \
+    Repository: https://github.com/sizhet/Structural-Recursive-Self-Improvement
