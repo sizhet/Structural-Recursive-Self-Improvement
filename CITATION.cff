@@ -24,6 +24,8 @@ url: "https://github.com/sizhet/Structural-Recursive-Self-Improvement"
 
 license: Apache-2.0
 
+doi: 10.5281/zenodo.22758483
+
 abstract: >-
   Structural Recursive Self-Improvement (SRSI) is a research framework
   for studying recursive improvement as a structured computational process
